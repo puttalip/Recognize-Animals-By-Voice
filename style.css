@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(127, 190, 244);
+    font-family:'Akaya Telivigala', cursive;
+}
+
+.header_div
+{
+   background-color: aliceblue;
+   color: white; 
+}
+
+.header_div p
+{
+   font-size:12px;
+   font-weight:bold;
+   color:white;
+   font-family:'Times New Roman', Times, serif;
+   letter-spacing: 1px;
+}
+
+.main_div button
+{
+    margin-top:30x;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+
+.footer
+{
+    color:azure;
+    font-size: 18px;
+    text-align:center;
+    width: 100%;
+    position:fixed;
+    bottom:0px;
+    background-color:bisque;
+    line-height:3;
+    text-shadow: 5px 5px 5px grey;
+}
+
